@@ -1,5 +1,4 @@
 import { Dropdown } from "antd";
-import React from "react";
 
 import { items } from "./Header_avt_items";
 
